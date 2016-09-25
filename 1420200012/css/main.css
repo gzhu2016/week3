@@ -1,0 +1,16 @@
+body{
+  text-align:center;   /*居中*/
+  background-image:url(../img/background.jpg);
+}
+div.kenan{
+  margin:20px 5px 15px 20px;   /*div在页面的位置*/
+  width:550px;             /*宽度*/
+  padding:10px 10px 20px 10px;   /*div边缘与内部元素的距离*/
+  border:1px solid #BFBFBF;   /*设置4条边框的大小和颜色*/
+  background-color:white;   /*设置div的颜色*/
+  opacity: 0.8;      /*设置div的透明度*/
+  box-shadow:2px 2px 3px #aaaaaa;   /*设置阴影大小和颜色*/
+}
+img {
+  float:left;    /*文字环绕图片*/
+}
